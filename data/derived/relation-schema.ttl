@@ -1,0 +1,55 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/11> a schema:CategoryCode ;
+    schema:codeValue 11 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Wife or widow"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/12> a schema:CategoryCode ;
+    schema:codeValue 12 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Son"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/13> a schema:CategoryCode ;
+    schema:codeValue 13 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Daughter"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/14> a schema:CategoryCode ;
+    schema:codeValue 14 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Other male relative"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/15> a schema:CategoryCode ;
+    schema:codeValue 15 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Other female relative"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/21> a schema:CategoryCode ;
+    schema:codeValue 21 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Former or retired"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/22> a schema:CategoryCode ;
+    schema:codeValue 22 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Future"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/31> a schema:CategoryCode ;
+    schema:codeValue 31 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Voluntary, honorary"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/41> a schema:CategoryCode ;
+    schema:codeValue 41 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Physical or mental disability"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/relation/51> a schema:CategoryCode ;
+    schema:codeValue 51 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/RELATION> ;
+    schema:name "Homeworker"@en .
+
+<https://iisg.amsterdam/resource/hisco/RELATION> a schema:CategoryCodeSet .
+

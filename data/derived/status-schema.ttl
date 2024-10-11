@@ -1,0 +1,80 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://iisg.amsterdam/resource/hisco/code/status/11> a schema:CategoryCode ;
+    schema:codeValue 11 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Owner, proprietor"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/12> a schema:CategoryCode ;
+    schema:codeValue 12 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Lease-holder, share-cropper"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/13> a schema:CategoryCode ;
+    schema:codeValue 13 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Poor"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/21> a schema:CategoryCode ;
+    schema:codeValue 21 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Master"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/22> a schema:CategoryCode ;
+    schema:codeValue 22 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Journeyman"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/23> a schema:CategoryCode ;
+    schema:codeValue 23 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Apprentice, learner"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/24> a schema:CategoryCode ;
+    schema:codeValue 24 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Artisan"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/31> a schema:CategoryCode ;
+    schema:codeValue 31 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Principal"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/32> a schema:CategoryCode ;
+    schema:codeValue 32 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "'Worker'"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/33> a schema:CategoryCode ;
+    schema:codeValue 33 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Subordinate"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/34> a schema:CategoryCode ;
+    schema:codeValue 34 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Serfs and Slaves"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/41> a schema:CategoryCode ;
+    schema:codeValue 41 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Student"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/42> a schema:CategoryCode ;
+    schema:codeValue 42 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Graduate"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/51> a schema:CategoryCode ;
+    schema:codeValue 51 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Nobility"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/status/52> a schema:CategoryCode ;
+    schema:codeValue 52 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/STATUS> ;
+    schema:name "Prestige titles"@en .
+
+<https://iisg.amsterdam/resource/hisco/STATUS> a schema:CategoryCodeSet .
+

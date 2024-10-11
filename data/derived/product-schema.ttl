@@ -1,0 +1,35 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://iisg.amsterdam/resource/hisco/code/product/0> a schema:CategoryCode ;
+    schema:codeValue 0 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/PRODUCT> ;
+    schema:name "Agriculture, Forestry and Fishery products"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/product/1> a schema:CategoryCode ;
+    schema:codeValue 1 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/PRODUCT> ;
+    schema:name "Ores and Minerals; Electricity, Gas and Water"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/product/2> a schema:CategoryCode ;
+    schema:codeValue 2 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/PRODUCT> ;
+    schema:name "Food productsl Beverages and Tobacco; Textiles; Apparel and Leather products"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/product/3> a schema:CategoryCode ;
+    schema:codeValue 3 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/PRODUCT> ;
+    schema:name "Other transportable goods - except Metal products, Machinery and Equipment"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/product/4> a schema:CategoryCode ;
+    schema:codeValue 4 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/PRODUCT> ;
+    schema:name "Metal products, Machinery and Equipment"@en .
+
+<https://iisg.amsterdam/resource/hisco/code/product/5> a schema:CategoryCode ;
+    schema:codeValue 5 ;
+    schema:inCodeSet <https://iisg.amsterdam/resource/hisco/PRODUCT> ;
+    schema:name "Intangible Assets; Land; Constructions; Construction services"@en .
+
+<https://iisg.amsterdam/resource/hisco/PRODUCT> a schema:CategoryCodeSet .
+
