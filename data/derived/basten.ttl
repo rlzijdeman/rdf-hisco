@@ -1,0 +1,473 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+
+<https://iisg.amsterdam/resource/basten/alderman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "alderman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/30000> .
+
+<https://iisg.amsterdam/resource/basten/armourer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "armourer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83920> .
+
+<https://iisg.amsterdam/resource/basten/bacon_factor> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "bacon factor"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77450> .
+
+<https://iisg.amsterdam/resource/basten/barkeeper> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "barkeeper"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51020> .
+
+<https://iisg.amsterdam/resource/basten/beer_house_keeper> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "beer house keeper"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51020> .
+
+<https://iisg.amsterdam/resource/basten/bellman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "bellman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95990> .
+
+<https://iisg.amsterdam/resource/basten/bottle_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "bottle maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89210> .
+
+<https://iisg.amsterdam/resource/basten/bottle_packer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "bottle packer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/97152> .
+
+<https://iisg.amsterdam/resource/basten/bottlemaker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "bottlemaker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89210> .
+
+<https://iisg.amsterdam/resource/basten/brakesman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "brakesman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98420> .
+
+<https://iisg.amsterdam/resource/basten/brandy_merchant> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "brandy merchant"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41020> .
+
+<https://iisg.amsterdam/resource/basten/brass_founder> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "brass founder"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72500> .
+
+<https://iisg.amsterdam/resource/basten/brass_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "brass maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72500> .
+
+<https://iisg.amsterdam/resource/basten/breeches_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "breeches maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79510> .
+
+<https://iisg.amsterdam/resource/basten/brigadier> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "brigadier"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/basten/brown_glass_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "brown glass maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89320> .
+
+<https://iisg.amsterdam/resource/basten/calender_man> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "calender man"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75670> .
+
+<https://iisg.amsterdam/resource/basten/calenderer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "calenderer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75670> .
+
+<https://iisg.amsterdam/resource/basten/calico_printer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "calico printer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92950> .
+
+<https://iisg.amsterdam/resource/basten/carman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "carman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/cartwright> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "cartwright"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81925> .
+
+<https://iisg.amsterdam/resource/basten/chaise_driver> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "chaise driver"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/cheesefactor> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "cheesefactor"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77540> .
+
+<https://iisg.amsterdam/resource/basten/cinder_burner> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "cinder burner"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/basten/cloth_dresser> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "cloth dresser"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/76500> .
+
+<https://iisg.amsterdam/resource/basten/coach> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coach"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/coach-guard> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coach-guard"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/coach_driver> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coach driver"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/coach_guard> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coach guard"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/coach_man> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coach man"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/coachkeeper> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coachkeeper"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/coal_corf_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coal corf maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94220> .
+
+<https://iisg.amsterdam/resource/basten/coalwaggonwaywright> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coalwaggonwaywright"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81925> .
+
+<https://iisg.amsterdam/resource/basten/colliers_mason> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "colliers mason"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/82070> .
+
+<https://iisg.amsterdam/resource/basten/comedian> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "comedian"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17990> .
+
+<https://iisg.amsterdam/resource/basten/copper_slate_printer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "copper slate printer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92225> .
+
+<https://iisg.amsterdam/resource/basten/copper_smith> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "copper smith"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87330> .
+
+<https://iisg.amsterdam/resource/basten/copperas_manufacturer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "copperas manufacturer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/basten/coppersmith> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "coppersmith"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87330> .
+
+<https://iisg.amsterdam/resource/basten/corf_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "corf maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94220> .
+
+<https://iisg.amsterdam/resource/basten/corfer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "corfer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94220> .
+
+<https://iisg.amsterdam/resource/basten/corver> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "corver"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94220> .
+
+<https://iisg.amsterdam/resource/basten/cow_doctor> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "cow doctor"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06510> .
+
+<https://iisg.amsterdam/resource/basten/crystal_cutter> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "crystal cutter"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89156> .
+
+<https://iisg.amsterdam/resource/basten/drummer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "drummer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58340> .
+
+<https://iisg.amsterdam/resource/basten/estate_man> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "estate man"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/64990> .
+
+<https://iisg.amsterdam/resource/basten/factory_man> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "factory man"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99930> .
+
+<https://iisg.amsterdam/resource/basten/feather_dresser> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "feather dresser"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79990> .
+
+<https://iisg.amsterdam/resource/basten/fire_teazer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "fire teazer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/96930> .
+
+<https://iisg.amsterdam/resource/basten/fish-cadger> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "fish-cadger"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/basten/flagger> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "flagger"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95160> .
+
+<https://iisg.amsterdam/resource/basten/flax_merchant> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "flax merchant"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41020> .
+
+<https://iisg.amsterdam/resource/basten/founderer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "founderer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72500> .
+
+<https://iisg.amsterdam/resource/basten/glass_agent> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "glass agent"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43230> .
+
+<https://iisg.amsterdam/resource/basten/glass_company's_agent> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "glass company's agent"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43230> .
+
+<https://iisg.amsterdam/resource/basten/glass_engraver> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "glass engraver"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89420> .
+
+<https://iisg.amsterdam/resource/basten/glass_grinder> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "glass grinder"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89156> .
+
+<https://iisg.amsterdam/resource/basten/gluemaker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "gluemaker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/74990> .
+
+<https://iisg.amsterdam/resource/basten/hackneyman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "hackneyman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/harbour_master> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "harbour master"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/22290> .
+
+<https://iisg.amsterdam/resource/basten/herdsman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "herdsman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62430> .
+
+<https://iisg.amsterdam/resource/basten/herring_curer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "herring curer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77450> .
+
+<https://iisg.amsterdam/resource/basten/hind> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "hind"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62105> .
+
+<https://iisg.amsterdam/resource/basten/hoopmaker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "hoopmaker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81990> .
+
+<https://iisg.amsterdam/resource/basten/keelman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "keelman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98135> .
+
+<https://iisg.amsterdam/resource/basten/leadminer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "leadminer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/71105> .
+
+<https://iisg.amsterdam/resource/basten/locks_agent> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "locks agent"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98930> .
+
+<https://iisg.amsterdam/resource/basten/mail_coach_guard> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "mail coach guard"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/basten/mailor> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "mailor"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83990> .
+
+<https://iisg.amsterdam/resource/basten/major> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "major"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/basten/muggar> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "muggar"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/basten/nailor> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "nailor"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83990> .
+
+<https://iisg.amsterdam/resource/basten/pewterer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "pewterer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83110> .
+
+<https://iisg.amsterdam/resource/basten/pier_master> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "pier master"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/22290> .
+
+<https://iisg.amsterdam/resource/basten/pottery_agent> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "pottery agent"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43230> .
+
+<https://iisg.amsterdam/resource/basten/rakemaker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "rakemaker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81990> .
+
+<https://iisg.amsterdam/resource/basten/sheep_keeper> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "sheep keeper"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62430> .
+
+<https://iisg.amsterdam/resource/basten/shotcaster> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "shotcaster"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/basten/shotmaker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "shotmaker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/basten/smelter> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "smelter"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72100> .
+
+<https://iisg.amsterdam/resource/basten/soap_boiler> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "soap boiler"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/74220> .
+
+<https://iisg.amsterdam/resource/basten/soda_water_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "soda water maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77890> .
+
+<https://iisg.amsterdam/resource/basten/spanish_consul> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "spanish consul"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/20210> .
+
+<https://iisg.amsterdam/resource/basten/spindle_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "spindle maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83560> .
+
+<https://iisg.amsterdam/resource/basten/spindlemaker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "spindlemaker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83560> .
+
+<https://iisg.amsterdam/resource/basten/staithman> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "staithman"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/22290> .
+
+<https://iisg.amsterdam/resource/basten/steel_toy_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "steel toy maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94990> .
+
+<https://iisg.amsterdam/resource/basten/theatrical_performer> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "theatrical performer"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17320> .
+
+<https://iisg.amsterdam/resource/basten/tiler> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "tiler"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95300> .
+
+<https://iisg.amsterdam/resource/basten/town_clerk> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "town clerk"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/30000> .
+
+<https://iisg.amsterdam/resource/basten/trumpeter> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "trumpeter"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17140> .
+
+<https://iisg.amsterdam/resource/basten/watch_cristal_grinder> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "watch cristal grinder"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89132> .
+
+<https://iisg.amsterdam/resource/basten/watch_crystal_maker> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "watch crystal maker"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89132> .
+
+<https://iisg.amsterdam/resource/basten/woodkeeper> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/YK84PG> ;
+    schema:name "woodkeeper"@en ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/63220> .
+
