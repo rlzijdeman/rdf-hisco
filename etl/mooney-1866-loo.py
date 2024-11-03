@@ -22,24 +22,28 @@ if response.status_code == 200:
     print("Contacted server succesfully\n")
 else: raise SystemExit("Server says:",response.status_code)
 
-df = pd.read_csv(io.StringIO(response.text), sep='\t')
-#print(df)
-#response.headers["content-type"]
-#response.encoding="utf-8"
-#t=response.text
-#df=pd.read_csv(t)
-#print(t)
+df = pd.read_csv(io.StringIO(response.text), sep='\t', dtype={'occupation':'str', 'hisco':'str'})
+df = df.dropna(axis=0) # removing 1 observation without hisco code
+
 
 ### PART 2: Data wrangling
 df['occupation'] = df['occupation'].str.lower()
-# leading zero in hisco digits is missing, resulting in 4 digit hisco's
-df['hisco_id']=df['hisco'].apply(str)
-df['hisco_id']=df['hisco_id'].apply('{:0>5}'.format)
+
+# small function to fill out 4 digit codes to 5 digits
+def fill_hisco(x):
+ if len(x)==4:
+    return x.zfill(5)
+ else:
+    return x
+
+df['hisco_id'] = df['hisco'].apply(fill_hisco)
+
 
 ### PART 3: Creating triples
 # create graph and namespace
 sdo = Namespace('https://schema.org/')
 basten = Namespace('https://iisg.amsterdam/resource/basten/')
+mooney = Namespace('https://iisg.amsterdam/resource/mooney/')
 hiscode = Namespace('https://iisg.amsterdam/resource/hisco/code/hisco/')
 #hiscostat = Namespace('https://iisg.amsterdam/resource/hisco/code/status/')
 #hiscorela = Namespace('https://iisg.amsterdam/resource/hisco/code/relation/')
@@ -49,10 +53,10 @@ g = Graph()
 
 # create triples
 for index, row in df.iterrows():
-    g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), RDF.type, SDO.Occupation ))
-    g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), PROV.wasDerivedFrom, URIRef('https://hdl.handle.net/10622/ERGY0V') ))
-    g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), SDO.name, Literal(row['occupation'], lang = ('en')) ))
-    g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), SDO.occupationalCategory, URIRef(hiscode+str(row['hisco_id'])) ))
+    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), RDF.type, SDO.Occupation ))
+    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), PROV.wasDerivedFrom, URIRef('https://hdl.handle.net/10622/ERGY0V') ))
+    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), SDO.name, Literal(row['occupation'], lang = ('en-gb')) ))
+    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), SDO.occupationalCategory, URIRef(hiscode+str(row['hisco_id'])) ))
  
 
     #g.add((URIRef(iribaker.to_iri(hisco+str(row['provenance'])+'/'+str(row['label']))), SDO.name, Literal(row['occupation'], lang = (str(row['en']))) ))
