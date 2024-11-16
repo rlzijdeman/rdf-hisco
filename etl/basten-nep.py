@@ -50,7 +50,7 @@ g = Graph()
 for index, row in df.iterrows():
     g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), RDF.type, SDO.Occupation ))
     g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), PROV.wasDerivedFrom, URIRef('https://hdl.handle.net/10622/YK84PG') ))
-    g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), SDO.name, Literal(row['occupation'], lang = ('en')) ))
+    g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), SDO.name, Literal(row['occupation'], lang = ('en-gb')) ))
     g.add((URIRef(iribaker.to_iri(basten+row['occupation'])), SDO.occupationalCategory, URIRef(hiscode+str(row['hisco_id'])) ))
  
 

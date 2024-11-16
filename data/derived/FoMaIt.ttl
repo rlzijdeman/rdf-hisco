@@ -1,0 +1,2128 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+
+<https://iisg.amsterdam/resource/FoMaIt/abate> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "abate"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/accettapegni> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "accettapegni"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/49020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/accordatore_di_pianoforti> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "accordatore di pianoforti"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94180> .
+
+<https://iisg.amsterdam/resource/FoMaIt/affitta_camere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "affitta camere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_azionario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente azionario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/44140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_campagna> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente campagna"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21230> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_carcerario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente carcerario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_commerciale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente commerciale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_comunale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente comunale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_daziario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente daziario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_delle_tasse> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente delle tasse"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_di_borsa> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente di borsa"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/44140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_di_cambio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente di cambio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/44190> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_di_campagna> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente di campagna"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21230> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_di_commercio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente di commercio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_di_custodia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente di custodia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agente_di_negozio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agente di negozio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agiato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agiato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agricoltore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agricoltore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agrimensore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agrimensore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/agronomo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "agronomo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/05320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/albergatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "albergatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/allevatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "allevatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/apprendista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "apprendista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99900> .
+
+<https://iisg.amsterdam/resource/FoMaIt/architetto> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "architetto"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/02120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/arcolaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "arcolaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/argentiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "argentiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/88050> .
+
+<https://iisg.amsterdam/resource/FoMaIt/armaiolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "armaiolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83920> .
+
+<https://iisg.amsterdam/resource/FoMaIt/arrotino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "arrotino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83540> .
+
+<https://iisg.amsterdam/resource/FoMaIt/artigiano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "artigiano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/artista_drammatico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "artista drammatico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/artista_teatrale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "artista teatrale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/avvocato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "avvocato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/12110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bambinaia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bambinaia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/54035> .
+
+<https://iisg.amsterdam/resource/FoMaIt/banchiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "banchiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bandaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bandaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/barbiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "barbiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/57030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/barcaiolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "barcaiolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98190> .
+
+<https://iisg.amsterdam/resource/FoMaIt/battirame> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "battirame"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/beccaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "beccaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/becchino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "becchino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/benestante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "benestante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bersagliere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bersagliere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/biadaiolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "biadaiolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bilanciaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bilanciaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/84230> .
+
+<https://iisg.amsterdam/resource/FoMaIt/birraio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "birraio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77810> .
+
+<https://iisg.amsterdam/resource/FoMaIt/boscaiolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "boscaiolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/63110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bottaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bottaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bottegaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bottegaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bracciante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bracciante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/FoMaIt/brigadiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "brigadiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/bronzista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "bronzista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72170> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cacciatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cacciatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/64960> .
+
+<https://iisg.amsterdam/resource/FoMaIt/caffettiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "caffettiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51050> .
+
+<https://iisg.amsterdam/resource/FoMaIt/calafato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "calafato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95440> .
+
+<https://iisg.amsterdam/resource/FoMaIt/calderaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "calderaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/calzettaia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "calzettaia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75535> .
+
+<https://iisg.amsterdam/resource/FoMaIt/calzolaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "calzolaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/80110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cambiavalute> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cambiavalute"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/33150> .
+
+<https://iisg.amsterdam/resource/FoMaIt/canapino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "canapino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cancelliere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cancelliere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/39340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/canestraio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "canestraio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cantiniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cantiniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51090> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cantoniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cantoniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/FoMaIt/capellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "capellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/capitano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "capitano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/capomastro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "capomastro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/caporale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "caporale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/capostazione> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "capostazione"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/22210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cappellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cappellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/carabiniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "carabiniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/carbonaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "carbonaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/74930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cardatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cardatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75135> .
+
+<https://iisg.amsterdam/resource/FoMaIt/carpentiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "carpentiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95410> .
+
+<https://iisg.amsterdam/resource/FoMaIt/carrettiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "carrettiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/carrozziere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "carrozziere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81920> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cartaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cartaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/73400> .
+
+<https://iisg.amsterdam/resource/FoMaIt/casalinga> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "casalinga"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/casaro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "casaro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77540> .
+
+<https://iisg.amsterdam/resource/FoMaIt/casellante_ferrovario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "casellante ferrovario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98430> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cassiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cassiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/33160> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cassiere_di_banca> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cassiere di banca"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/33140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cavapietre> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cavapietre"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/71110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cementaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cementaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cenciaiolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cenciaiolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cerchiaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cerchiaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cestaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cestaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/chierico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "chierico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/chimico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "chimico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/01110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/chincagliere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "chincagliere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41025> .
+
+<https://iisg.amsterdam/resource/FoMaIt/chirurgo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "chirurgo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/civile> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "civile"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cocchiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cocchiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/colono> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "colono"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/comico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "comico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/commerciante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "commerciante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/commerciante_girovago> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "commerciante girovago"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/commesso> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "commesso"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45125> .
+
+<https://iisg.amsterdam/resource/FoMaIt/commesso_di_negozio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "commesso di negozio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45130> .
+
+<https://iisg.amsterdam/resource/FoMaIt/commissionario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "commissionario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/conciapelli> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "conciapelli"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/76145> .
+
+<https://iisg.amsterdam/resource/FoMaIt/conciatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "conciatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/76145> .
+
+<https://iisg.amsterdam/resource/FoMaIt/conduttore_caldaie> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "conduttore caldaie"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/96930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/contabile> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "contabile"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/33110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/contadino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "contadino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/conte> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "conte"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cordaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cordaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75710> .
+
+<https://iisg.amsterdam/resource/FoMaIt/costruttore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "costruttore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cucitrice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cucitrice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79510> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cuoco> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cuoco"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/53100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/cursore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "cursore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/37040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/custode> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "custode"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/custode_carcerario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "custode carcerario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/decoratore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "decoratore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/93120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/deviatore_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "deviatore ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98440> .
+
+<https://iisg.amsterdam/resource/FoMaIt/direttore_d'albergo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "direttore d'albergo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/direttore_di_banca> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "direttore di banca"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/direttore_di_stabilimento> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "direttore di stabilimento"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/direttore_di_una_casa_commerciale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "direttore di una casa commerciale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21300> .
+
+<https://iisg.amsterdam/resource/FoMaIt/direttore_didattico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "direttore didattico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13940> .
+
+<https://iisg.amsterdam/resource/FoMaIt/disegnatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "disegnatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/disegnatore_litografo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "disegnatore litografo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03180> .
+
+<https://iisg.amsterdam/resource/FoMaIt/disegnatore_meccanico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "disegnatore meccanico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/distillatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "distillatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/74400> .
+
+<https://iisg.amsterdam/resource/FoMaIt/docente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "docente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/domatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "domatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17590> .
+
+<https://iisg.amsterdam/resource/FoMaIt/domestico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "domestico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/54020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/dottore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "dottore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/dottore_in_medicina> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "dottore in medicina"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/droghiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "droghiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ebanista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ebanista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/economo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "economo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/11010> .
+
+<https://iisg.amsterdam/resource/FoMaIt/elettricista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "elettricista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/85510> .
+
+<https://iisg.amsterdam/resource/FoMaIt/esattore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "esattore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/esattore_delle_imposte> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "esattore delle imposte"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/esercente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "esercente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/esperto_fili_telegrafici> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "esperto fili telegrafici"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/85740> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fabbricatore_di_scope> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fabbricatore di scope"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fabbricatore_di_strumenti> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fabbricatore di strumenti"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fabbro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fabbro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fabbro_ferraio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fabbro ferraio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/facchino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "facchino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/97125> .
+
+<https://iisg.amsterdam/resource/FoMaIt/falegname> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "falegname"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/famiglio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "famiglio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/54020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fantesca> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fantesca"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/54020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/farmacista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "farmacista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06710> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fattore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fattore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fattorino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fattorino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/37040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ferroviere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ferroviere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fiammiferaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fiammiferaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/filatrice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "filatrice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fittavolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fittavolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fonditore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fonditore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/formaggiaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "formaggiaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77540> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fornaciaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fornaciaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89360> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fornaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fornaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77610> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fotografo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fotografo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/16310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/frenatore_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "frenatore ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98420> .
+
+<https://iisg.amsterdam/resource/FoMaIt/frustaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "frustaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/80390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fuochista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fuochista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/96930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/fuochista_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "fuochista ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/furiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "furiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/garzone> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "garzone"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/geometra> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "geometra"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03010> .
+
+<https://iisg.amsterdam/resource/FoMaIt/gessatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "gessatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95510> .
+
+<https://iisg.amsterdam/resource/FoMaIt/giardiniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "giardiniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62700> .
+
+<https://iisg.amsterdam/resource/FoMaIt/gioielliere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "gioielliere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/88010> .
+
+<https://iisg.amsterdam/resource/FoMaIt/giornalaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "giornalaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/giornaliero> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "giornaliero"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99920> .
+
+<https://iisg.amsterdam/resource/FoMaIt/giornalista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "giornalista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/15930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/giovane_di_negozio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "giovane di negozio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45130> .
+
+<https://iisg.amsterdam/resource/FoMaIt/governante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "governante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/22430> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58940> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardia_carceraria> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardia carceraria"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardia_comunale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardia comunale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardia_di_finanza> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardia di finanza"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardia_ferroviaria> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardia ferroviaria"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardia_municipale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardia municipale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardiano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardiano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58940> .
+
+<https://iisg.amsterdam/resource/FoMaIt/guardiano_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "guardiano ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/illustratore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "illustratore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/16200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/imbalsamatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "imbalsamatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94250> .
+
+<https://iisg.amsterdam/resource/FoMaIt/imbianchino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "imbianchino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/93120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/impiegato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "impiegato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/30000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/impiegato_civile> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "impiegato civile"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/30000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/impiegato_comunale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "impiegato comunale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/30000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/impiegato_postale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "impiegato postale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/33170> .
+
+<https://iisg.amsterdam/resource/FoMaIt/imprenditore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "imprenditore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/impresario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "impresario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/21240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/incisore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "incisore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/16200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/indoratore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "indoratore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/93920> .
+
+<https://iisg.amsterdam/resource/FoMaIt/infermiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "infermiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/07110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ingegnere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ingegnere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/02000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ingegnere_civile> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ingegnere civile"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/02210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ingegnere_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ingegnere ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/02240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ingegnere_navale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ingegnere navale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/02450> .
+
+<https://iisg.amsterdam/resource/FoMaIt/insegnante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "insegnante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/insegnante_elementare> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "insegnante elementare"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/inserviente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "inserviente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/54020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/intagliatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "intagliatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/16150> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ispettore_del_demanio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ispettore del demanio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31090> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ispettore_scolastico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ispettore scolastico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13950> .
+
+<https://iisg.amsterdam/resource/FoMaIt/istitutore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "istitutore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/istruttore_di_cavalli> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "istruttore di cavalli"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62490> .
+
+<https://iisg.amsterdam/resource/FoMaIt/lattaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "lattaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/lattoniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "lattoniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/lavandaia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "lavandaia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/56010> .
+
+<https://iisg.amsterdam/resource/FoMaIt/lavorante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "lavorante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/FoMaIt/legale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "legale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/12110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/legatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "legatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/levatrice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "levatrice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/07410> .
+
+<https://iisg.amsterdam/resource/FoMaIt/libraio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "libraio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/linaiolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "linaiolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/liquorista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "liquorista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/74490> .
+
+<https://iisg.amsterdam/resource/FoMaIt/litografo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "litografo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92415> .
+
+<https://iisg.amsterdam/resource/FoMaIt/locandiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "locandiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/lucidatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "lucidatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83590> .
+
+<https://iisg.amsterdam/resource/FoMaIt/luogotenente_di_cavalleria> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "luogotenente di cavalleria"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/macchinista_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "macchinista ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/macellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "macellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestra_di_canto> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestra di canto"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestro_di_ballo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestro di ballo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13290> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestro_di_ginnastica> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestro di ginnastica"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestro_di_musica> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestro di musica"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13250> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestro_di_scherma> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestro di scherma"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maestro_elementare> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maestro elementare"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/magazziniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "magazziniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/39140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maggiore_di_fanteria> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maggiore di fanteria"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/magistrato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "magistrato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/12110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mammana> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mammana"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/07410> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mandriano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mandriano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62410> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maniscalco> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maniscalco"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/manovale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "manovale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99900> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maresciallo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maresciallo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/maresciallo_di_pubblica_sicurezza> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "maresciallo di pubblica sicurezza"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/marinaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "marinaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98135> .
+
+<https://iisg.amsterdam/resource/FoMaIt/marionettista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "marionettista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/marmista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "marmista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/82020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/massaia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "massaia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mastellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mastellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/materassaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "materassaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79640> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mattonaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mattonaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89242> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mattoniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mattoniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89242> .
+
+<https://iisg.amsterdam/resource/FoMaIt/meccanico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "meccanico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/84100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mediatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mediatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/44140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/medico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "medico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/medico_chirurgo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "medico chirurgo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/medico_condotto> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "medico condotto"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mendicante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mendicante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mercante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mercante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mercante_di_legname> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mercante di legname"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/merciaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "merciaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/merciaio_girovago> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "merciaio girovago"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/messo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "messo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/37040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mezzadro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mezzadro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/militare> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "militare"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58300> .
+
+<https://iisg.amsterdam/resource/FoMaIt/minatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "minatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/71105> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ministro_evangelico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ministro evangelico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/missionario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "missionario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14130> .
+
+<https://iisg.amsterdam/resource/FoMaIt/misuratore_di_grani> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "misuratore di grani"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/39150> .
+
+<https://iisg.amsterdam/resource/FoMaIt/modellista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "modellista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81935> .
+
+<https://iisg.amsterdam/resource/FoMaIt/modista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "modista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mosaicista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mosaicista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95155> .
+
+<https://iisg.amsterdam/resource/FoMaIt/mugnaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "mugnaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/muratore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "muratore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/musicista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "musicista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/necroforo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "necroforo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/negoziante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "negoziante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/negoziante_di_agrumi> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "negoziante di agrumi"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/negoziante_di_grani> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "negoziante di grani"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/notaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "notaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/12310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/nutrice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "nutrice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/07410> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ombrellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ombrellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/operaia_di_fabbrica> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "operaia di fabbrica"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/operaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "operaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99900> .
+
+<https://iisg.amsterdam/resource/FoMaIt/orditrice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "orditrice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75415> .
+
+<https://iisg.amsterdam/resource/FoMaIt/orefice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "orefice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/88050> .
+
+<https://iisg.amsterdam/resource/FoMaIt/organista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "organista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/orologiaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "orologiaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/84220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/orticoltore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "orticoltore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61270> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ortopedico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ortopedico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/07950> .
+
+<https://iisg.amsterdam/resource/FoMaIt/oste> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "oste"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51050> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ottico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ottico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/07530> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ottonaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ottonaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72420> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pagliatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pagliatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94250> .
+
+<https://iisg.amsterdam/resource/FoMaIt/palombaro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "palombaro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95960> .
+
+<https://iisg.amsterdam/resource/FoMaIt/panettiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "panettiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/parrucchiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "parrucchiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pastaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pastaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77640> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pasticcere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pasticcere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77630> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pastore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pastore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62430> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pellettiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pellettiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/76200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pensionato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pensionato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/perito_pubblico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "perito pubblico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pesatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pesatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/39150> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pescatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pescatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/64100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pesta_scorza> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pesta scorza"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/73290> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pettinatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pettinatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75145> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pianista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pianista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/piattaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "piattaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pigionale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pigionale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/51040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pilatore_di_riso> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pilatore di riso"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77130> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pistore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pistore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pittore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pittore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/93120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pizzicagnolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pizzicagnolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/portalettere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "portalettere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/37030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/portinaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "portinaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/postino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "postino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/37030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/prestinaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "prestinaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/prete> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "prete"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pretore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pretore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/12210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/privato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "privato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/procuratore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "procuratore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/12110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_agraria> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di agraria"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13270> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_belle_lettere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di belle lettere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13215> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_disegno> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di disegno"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13250> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_liceo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di liceo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_matematica> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di matematica"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_scuole_tecniche> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di scuole tecniche"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13280> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_storia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di storia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_storia_naturale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di storia naturale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13230> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_di_universit_> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore di universit�"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/professore_scuole_tecniche> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "professore scuole tecniche"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/13280> .
+
+<https://iisg.amsterdam/resource/FoMaIt/proprietario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "proprietario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pubblicista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pubblicista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/15930> .
+
+<https://iisg.amsterdam/resource/FoMaIt/pulitore_ferroviario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "pulitore ferroviario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55290> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ragioniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ragioniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/11010> .
+
+<https://iisg.amsterdam/resource/FoMaIt/rappresentante_commerciale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "rappresentante commerciale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ricamatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ricamatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79560> .
+
+<https://iisg.amsterdam/resource/FoMaIt/rilegatore_di_libri> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "rilegatore di libri"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/risicoltore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "risicoltore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sacerdote> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sacerdote"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sacrestano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sacrestano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/salamaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "salamaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77390> .
+
+<https://iisg.amsterdam/resource/FoMaIt/saltimbanco> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "saltimbanco"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17540> .
+
+<https://iisg.amsterdam/resource/FoMaIt/saponaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "saponaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/74220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sarto> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sarto"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79100> .
+
+<https://iisg.amsterdam/resource/FoMaIt/scalpellino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "scalpellino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/82000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/scatolaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "scatolaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/91020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/scavatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "scavatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/97415> .
+
+<https://iisg.amsterdam/resource/FoMaIt/scrivano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "scrivano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/30000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/scultore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "scultore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/16120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/segantino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "segantino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/73210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/segatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "segatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/73210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/seggiolaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "seggiolaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/segretario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "segretario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31090> .
+
+<https://iisg.amsterdam/resource/FoMaIt/segretario_comunale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "segretario comunale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31090> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/80320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/seminarista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "seminarista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sensale> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sensale"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/44140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/senza_professione> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "senza professione"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-2> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sergente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sergente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58330> .
+
+<https://iisg.amsterdam/resource/FoMaIt/serpentatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "serpentatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/72190> .
+
+<https://iisg.amsterdam/resource/FoMaIt/servo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "servo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/54020> .
+
+<https://iisg.amsterdam/resource/FoMaIt/setaiola> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "setaiola"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sigaraia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sigaraia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/78200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/soldato> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "soldato"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58300> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sorvegliante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sorvegliante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58940> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sottotenente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sottotenente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/spaccalegna> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "spaccalegna"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/63110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/spazzacamino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "spazzacamino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/spazzolaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "spazzolaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/94230> .
+
+<https://iisg.amsterdam/resource/FoMaIt/spedizioniere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "spedizioniere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/39120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/stagnino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "stagnino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/87340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/stalliere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "stalliere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62460> .
+
+<https://iisg.amsterdam/resource/FoMaIt/stampatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "stampatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/sterratore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "sterratore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/97415> .
+
+<https://iisg.amsterdam/resource/FoMaIt/stiratrice> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "stiratrice"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/56070> .
+
+<https://iisg.amsterdam/resource/FoMaIt/straccivendolo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "straccivendolo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/stradino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "stradino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/99910> .
+
+<https://iisg.amsterdam/resource/FoMaIt/stuccatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "stuccatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/93120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/studente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "studente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/studente_di_teologia> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "studente di teologia"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/14120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/suonatore_d'organetto> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "suonatore d'organetto"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tabaccaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tabaccaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/taglialegna> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "taglialegna"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/63110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tagliapietra> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tagliapietra"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/82000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tamburino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tamburino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tappettiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tappettiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75435> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tappezziere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tappezziere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/79600> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tecnico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tecnico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tecnico_dentista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tecnico dentista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/84250> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tecnico_edile> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tecnico edile"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/03310> .
+
+<https://iisg.amsterdam/resource/FoMaIt/telegrafista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "telegrafista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/38040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tenente> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tenente"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tenente_colonnello> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tenente colonnello"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tenente_di_vascello> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tenente di vascello"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/04230> .
+
+<https://iisg.amsterdam/resource/FoMaIt/terrazziere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "terrazziere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/95250> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tessitore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tessitore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75400> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tintore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tintore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tipografo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tipografo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tipografo_compositore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tipografo compositore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/92120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tiracanape> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tiracanape"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75990> .
+
+<https://iisg.amsterdam/resource/FoMaIt/tornitore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "tornitore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/83320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/trafficante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "trafficante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/41030> .
+
+<https://iisg.amsterdam/resource/FoMaIt/trementinaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "trementinaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62940> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ufficiale_del_registro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ufficiale del registro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/20210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ufficiale_di_cavalleria> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ufficiale di cavalleria"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ufficiale_di_dogana> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ufficiale di dogana"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/31040> .
+
+<https://iisg.amsterdam/resource/FoMaIt/ufficiale_nell'esercito> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "ufficiale nell'esercito"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/usciere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "usciere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/55120> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vaccaro> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vaccaro"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/62510> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vagabondo> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vagabondo"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/-1> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vasaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vasaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vellutaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vellutaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/75000> .
+
+<https://iisg.amsterdam/resource/FoMaIt/venditore_ambulante> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "venditore ambulante"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/venditore_di_giornali> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "venditore di giornali"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/45240> .
+
+<https://iisg.amsterdam/resource/FoMaIt/verificatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "verificatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/33190> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vermicellaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vermicellaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/77640> .
+
+<https://iisg.amsterdam/resource/FoMaIt/verniciatore> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "verniciatore"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/93920> .
+
+<https://iisg.amsterdam/resource/FoMaIt/veterinario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "veterinario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/06510> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vetraio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vetraio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/89320> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vetturino> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vetturino"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/98620> .
+
+<https://iisg.amsterdam/resource/FoMaIt/viaggiatore_di_commercio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "viaggiatore di commercio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/43200> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vice_console> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vice console"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/20210> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vigile_urbano> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vigile urbano"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58220> .
+
+<https://iisg.amsterdam/resource/FoMaIt/villico> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "villico"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/61110> .
+
+<https://iisg.amsterdam/resource/FoMaIt/violinista> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "violinista"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/17140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/vivandiere> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "vivandiere"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58340> .
+
+<https://iisg.amsterdam/resource/FoMaIt/volontario> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "volontario"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/58300> .
+
+<https://iisg.amsterdam/resource/FoMaIt/zatteraio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "zatteraio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/63140> .
+
+<https://iisg.amsterdam/resource/FoMaIt/zoccolaio> a schema:Occupation ;
+    prov:wasDerivedFrom <https://hdl.handle.net/10622/SRVW6S> ;
+    schema:name "zoccolaio"@it ;
+    schema:occupationalCategory <https://iisg.amsterdam/resource/hisco/code/hisco/81990> .
+

@@ -11,22 +11,24 @@ import urllib.parse #for parsing strings to URL's
 # docs: https://guides.dataverse.org/en/5.12.1/api/dataaccess.html
 
 server = 'https://datasets.iisg.amsterdam/'
-# pid = 'hdl:10622/ERGY0V' # for source purposes
+# pid = 'hdl:10622/SRVW6S' # for source purposes
 
 response = requests.get(
-    server + '/api/access/datafile/9823/'
-    #server + '/api/access/datafile/374/metadata/ddi' # -> gets you var ids
-    #server + '/api/access/datafile/374?format=subset&variables=284,285'
+    #for fileid visit dataverse, click file and look for id in address bar
+    #server + '/api/access/datafile/1501/'
+    #server + '/api/access/datafile/1501/metadata/ddi' # -> gets you var ids
+    server + '/api/access/datafile/1501?format=subset&variables=832,834'
+    #print(response.text)
 )
 print(response.text)
-x 
 
 if response.status_code == 200:
     print("Contacted server succesfully\n")
 else: raise SystemExit("Server says:",response.status_code)
 
 df = pd.read_csv(io.StringIO(response.text), sep='\t', dtype={'occupation':'str', 'hisco':'str'})
-df = df.dropna(axis=0) # removing 1 observation without hisco code
+#df = df.dropna(axis=0) # removing 1 observation without hisco code
+#df = df.rename(columns={'OCCUPATION': 'occupation', 'HISCO':'hisco'})
 
 
 ### PART 2: Data wrangling
@@ -47,6 +49,8 @@ df['hisco_id'] = df['hisco'].apply(fill_hisco)
 sdo = Namespace('https://schema.org/')
 basten = Namespace('https://iisg.amsterdam/resource/basten/')
 mooney = Namespace('https://iisg.amsterdam/resource/mooney/')
+seCedar = Namespace('https://iisg.amsterdam/resource/se-CEDAR/')
+FoMaIt = Namespace('https://iisg.amsterdam/resource/FoMaIt/')
 hiscode = Namespace('https://iisg.amsterdam/resource/hisco/code/hisco/')
 #hiscostat = Namespace('https://iisg.amsterdam/resource/hisco/code/status/')
 #hiscorela = Namespace('https://iisg.amsterdam/resource/hisco/code/relation/')
@@ -56,10 +60,10 @@ g = Graph()
 
 # create triples
 for index, row in df.iterrows():
-    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), RDF.type, SDO.Occupation ))
-    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), PROV.wasDerivedFrom, URIRef('https://hdl.handle.net/10622/ERGY0V') ))
-    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), SDO.name, Literal(row['occupation'], lang = ('en-gb')) ))
-    g.add((URIRef(iribaker.to_iri(mooney+row['occupation'])), SDO.occupationalCategory, URIRef(hiscode+str(row['hisco_id'])) ))
+    g.add((URIRef(iribaker.to_iri(FoMaIt+row['occupation'])), RDF.type, SDO.Occupation ))
+    g.add((URIRef(iribaker.to_iri(FoMaIt+row['occupation'])), PROV.wasDerivedFrom, URIRef('https://hdl.handle.net/10622/SRVW6S') ))
+    g.add((URIRef(iribaker.to_iri(FoMaIt+row['occupation'])), SDO.name, Literal(row['occupation'], lang = ('it')) ))
+    g.add((URIRef(iribaker.to_iri(FoMaIt+row['occupation'])), SDO.occupationalCategory, URIRef(hiscode+str(row['hisco_id'])) ))
  
 
     #g.add((URIRef(iribaker.to_iri(hisco+str(row['provenance'])+'/'+str(row['label']))), SDO.name, Literal(row['occupation'], lang = (str(row['en']))) ))
@@ -71,4 +75,4 @@ for index, row in df.iterrows():
  
      
 # write out results
-g.serialize('../data/derived/mooney.ttl',format='ttl')
+g.serialize('../data/derived/FoMaIt.ttl',format='ttl')
