@@ -14,7 +14,7 @@ server = 'https://datasets.iisg.amsterdam/'
 # pid = 'hdl:10622/YK84PG' # for source purposes
 
 response = requests.get(
-    #server + '/api/access/datafile/377/metadata/ddi' -> gets you var ids
+    #server + '/api/access/datafile/377/metadata/ddi' # -> gets you var ids
     server + '/api/access/datafile/377?format=subset&variables=289,290'
 )
 if response.status_code == 200:
@@ -28,6 +28,8 @@ df = pd.read_csv(io.StringIO(response.text), sep='\t')
 #t=response.text
 #df=pd.read_csv(t)
 #print(t)
+
+
 
 ### PART 2: Data wrangling
 df['occupation'] = df['occupation'].str.lower()

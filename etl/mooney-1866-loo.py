@@ -14,13 +14,12 @@ server = 'https://datasets.iisg.amsterdam/'
 # pid = 'hdl:10622/ERGY0V' # for source purposes
 
 response = requests.get(
-    server + '/api/access/datafile/9823/'
+    #server + '/api/access/datafile/9823/'
     #server + '/api/access/datafile/374/metadata/ddi' # -> gets you var ids
-    #server + '/api/access/datafile/374?format=subset&variables=284,285'
+    server + '/api/access/datafile/374?format=subset&variables=284,285'
 )
-print(response.text)
-x 
-
+# print(response.text)
+ 
 if response.status_code == 200:
     print("Contacted server succesfully\n")
 else: raise SystemExit("Server says:",response.status_code)
